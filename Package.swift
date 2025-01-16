@@ -5,6 +5,13 @@ import PackageDescription
 
 let package = Package(
     name: "StorageSenseKit",
+    platforms: [
+        .iOS(.v15),
+        .watchOS(.v7),
+        .macOS(.v10_15),
+        .tvOS(.v15),
+        .visionOS(.v1),
+    ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
