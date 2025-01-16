@@ -58,7 +58,7 @@ extension StorageStatus {
     /// Create a new storage status object
     /// - Throws: `StorageError` if the storage status cannot be retrieved
     /// - Returns: A new `StorageStatus` object
-    static func create() throws(StorageError) -> StorageStatus {
+    public static func create() throws(StorageError) -> StorageStatus {
         let url = URL(fileURLWithPath: NSHomeDirectory(), isDirectory: true)
         do {
             let values = try url.resourceValues(
