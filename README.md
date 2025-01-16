@@ -1,5 +1,8 @@
 # StorageSenseKit
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fc2p-cmd%2FStorageSenseKit%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/c2p-cmd/StorageSenseKit)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fc2p-cmd%2FStorageSenseKit%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/c2p-cmd/StorageSenseKit)
+
 StorageSenseKit is a lightweight Swift library that simplifies tracking and displaying device storage information. It provides an intuitive API to access storage status, enabling developers to create polished and user-friendly UI components for storage management.
 
 ## Features
