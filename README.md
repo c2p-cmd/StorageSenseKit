@@ -1,6 +1,6 @@
 # StorageSenseKit
 
-## StorageSenseKit is a lightweight Swift library that simplifies tracking and displaying device storage information. It provides an intuitive API to access storage status, enabling developers to create polished and user-friendly UI components for storage management.
+StorageSenseKit is a lightweight Swift library that simplifies tracking and displaying device storage information. It provides an intuitive API to access storage status, enabling developers to create polished and user-friendly UI components for storage management.
 
 ## Features
     • Retrieve current storage usage and availability with minimal effort.
